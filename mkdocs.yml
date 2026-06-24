@@ -1,0 +1,8 @@
+site_name: Discount & Percentage Calculator
+site_description: Discount and percentage-off calculator: price + percent to final price and savings.
+theme:
+  name: readthedocs
+nav:
+  - Overview: index.md
+  - Usage & API: usage.md
+  - Guide: guide.md

@@ -1,0 +1,13 @@
+{
+  "name": "@sgbp/discount-calculator",
+  "version": "1.0.0",
+  "description": "Discount and percentage-off calculator: price + percent to final price and savings. Zero-dependency Web Component.",
+  "type": "module",
+  "main": "discount-calculator.js",
+  "unpkg": "discount-calculator.js",
+  "files": ["discount-calculator.js", "README.md"],
+  "keywords": ["web-component", "custom-element", "discount calculator", "percentage off calculator", "sale price calculator"],
+  "homepage": "https://sgbp.tech/tools/discount-calculator",
+  "author": "SGBP — Singapore Build Partners (https://sgbp.tech)",
+  "license": "MIT"
+}
